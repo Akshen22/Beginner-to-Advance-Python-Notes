@@ -44,12 +44,12 @@ Welcome to the ultimate beginner's guide to Python! This repository contains car
 To get started with this Python syllabus, clone this repository:
 
 ```bash  
-git clone https://github.com/Akshen22/Python  
+git clone https://github.com/Akshen22/Beginner-to-Advance-Python-Notes
 ```  
 
 Navigate to the project directory:  
 ```bash  
-cd Python  
+cd Beginner-to-Advance-Python-Notes 
 ```  
 
 Open the `Python_Day_1.ipynb` file to begin your Python coding journey! You can use Jupyter Notebook to open and interact with `.ipynb` files.
