@@ -36,7 +36,7 @@ Welcome to the Python learning journey! This repository provides structured less
 
 ---
 
-### **Day 4: Strings & Functions**
+### **Day 4: Strings**
 - **Strings 📝**  
    Master string manipulation with indexing, slicing, and essential functions like `capitalize()`, `find()`, `replace()`, `split()`, `join()`, `strip()`, and `upper()`.
 
