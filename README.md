@@ -48,6 +48,8 @@ Welcome to the Python learning journey! This repository provides structured less
 - **Dictionaries 🔑**  
    Manage key-value pairs with functions like `get()`, `setdefault()`, `items()`, `keys()`, `pop()`, `update()`.
 
+---
+
 ### 🚀 **Getting Started**
 1. Clone the repository:
    ```bash
