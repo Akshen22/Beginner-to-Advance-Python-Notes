@@ -1,62 +1,85 @@
-# Beginner-to-Advance-Python-Notes
-
-💻 Python Learning Repository 🚀  
-"Master the Essentials of Python Programming"
-
-Welcome to the ultimate beginner's guide to Python! This repository contains carefully structured lessons to help you build a solid foundation in programming with Python. Perfect for beginners looking to start their coding journey!
+Here's the updated version with the "Navigate to the project directory" step added:
 
 ---
 
-## Table of Contents 📚  
-**Python Day 1**  
+# 💻 Beginner-to-Advance Python Notes 🚀  
+**"Master Python Programming Essentials"**
+
+Welcome to the Python learning journey! This repository provides structured lessons from basic to advanced Python. Perfect for beginners to build a strong foundation.
+
+---
+
+## Table of Contents 📚
+
+### **Day 1: Python Basics**
 - **Introduction to Python 🐍**  
-  Learn the basics of Python, the powerful and easy-to-learn programming language.  
+   Learn Python fundamentals.
 - **Taking Input 📝**  
-  Discover how to take input from both the program itself and users.  
-- **Rules of Python Syntax 📜**  
-  Understand the fundamental rules and structure of writing Python code.  
+   How to take input from users and programs.
+- **Python Syntax 📜**  
+   Understand basic rules for writing clean Python code.
 - **User-Defined Functions 🛠️**  
-  Learn how to create reusable blocks of code using functions in Python.  
-  
-**Python Day 2**  
+   Create reusable code blocks with functions.
+
+### **Day 2: Data Types**
 - **Data Types 🔢**  
-  Understand various Python data types such as `int`, `float`, `complex`, `string`, and `Boolean`.  
+   Learn about `int`, `float`, `complex`, `string`, `boolean`.
 - **Typecasting 🔄**  
-  Explore how to convert one data type into another (e.g., from `int` to `float`).  
+   Convert data types (e.g., `int` to `float`).
 - **Modifying Data Types 🛠️**  
-  Practice changing and manipulating data types in Python programs.
+   Practice manipulating data types in programs.
 
-**Python Day 3**  
+### **Day 3: Operators**
 - **Operators ➕➖✖️**  
-  Dive deep into operators and how they function in Python:  
-  - **Arithmetic Operators** (e.g., +, -, *, /)  
-  - **BODMAS/PEDMAS Rules** for order of operations in expressions  
-  - **String Operations** using operators on strings  
-  - **Assignment Operators** to assign values to variables  
-  - **Relational Operators** (>, <, ==, !=, >=, <=)  
-  - **Logical Operators with `and`, `or`, `not`** for conditionals  
-  - **Membership Operators** (`in`, `not in`) for checking elements in sequences  
-  - **Bitwise Operators** for operations on bits (`&`, `|`, `^`, `~`, etc.)  
+   Arithmetic, relational, logical, membership, and bitwise operators.  
+   Explore how they work with numbers and strings.
 
 ---
 
-🚀 **Getting Started**  
-To get started with this Python syllabus, clone this repository:
-
-```bash  
-git clone https://github.com/Akshen22/Beginner-to-Advance-Python-Notes.git
-```  
-
-Navigate to the project directory:  
-```bash  
-cd Beginner-to-Advance-Python-Notes 
-```  
-
-Open the `Python_Day_1.ipynb` file to begin your Python coding journey! You can use Jupyter Notebook to open and interact with `.ipynb` files.
+### **Day 4: Strings & Functions**
+- **Strings 📝**  
+   Master string manipulation with indexing, slicing, and essential functions like `capitalize()`, `find()`, `replace()`, `split()`, `join()`, `strip()`, and `upper()`.
 
 ---
 
-🛡️ **License**  
-This project is licensed under the MIT License. See the LICENSE file for more details.
+### **Day 5: Lists & Tuples**
+- **Lists 📋**  
+   Learn about indexing, slicing, and functions like `append()`, `pop()`, `remove()`, `sort()`.
+- **Tuples 🔗**  
+   Explore immutable sequences, indexing, and key functions like `min()`, `max()`.
+
+---
+
+### **Day 6: Sets**
+- **Sets 🔗**  
+   Work with unique, unordered collections and operations like `add()`, `union()`, `intersection()`, `difference()`.
+
+---
+
+### **Day 7: Dictionaries**
+- **Dictionaries 🔑**  
+   Manage key-value pairs with functions like `get()`, `setdefault()`, `items()`, `keys()`, `pop()`, `update()`.
+
+---
+
+### 🚀 **Getting Started**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Akshen22/Beginner-to-Advance-Python-Notes.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Beginner-to-Advance-Python-Notes
+   ```
+3. Start with **Day 1** using Jupyter Notebook!
+
+---
+
+### 🛡️ **License**
+Licensed under the MIT License.
 
 Happy Coding! 🎉
+
+--- 
+
+This version now includes the "Navigate to the project directory" step!
