@@ -24,19 +24,15 @@ Welcome to the Python learning journey! This repository provides structured less
    Convert data types (e.g., `int` to `float`).
 - **Modifying Data Types 🛠️**  
    Practice manipulating data types in programs.
-
+  
 ### **Day 3: Operators**
 - **Operators ➕➖✖️**  
    Arithmetic, relational, logical, membership, and bitwise operators.  
    Explore how they work with numbers and strings.
 
----
-
 ### **Day 4: Strings**
 - **Strings 📝**  
    Master string manipulation with indexing, slicing, and essential functions like `capitalize()`, `find()`, `replace()`, `split()`, `join()`, `strip()`, and `upper()`.
-
----
 
 ### **Day 5: Lists & Tuples**
 - **Lists 📋**  
@@ -44,19 +40,13 @@ Welcome to the Python learning journey! This repository provides structured less
 - **Tuples 🔗**  
    Explore immutable sequences, indexing, and key functions like `min()`, `max()`.
 
----
-
 ### **Day 6: Sets**
 - **Sets 🔗**  
    Work with unique, unordered collections and operations like `add()`, `union()`, `intersection()`, `difference()`.
 
----
-
 ### **Day 7: Dictionaries**
 - **Dictionaries 🔑**  
    Manage key-value pairs with functions like `get()`, `setdefault()`, `items()`, `keys()`, `pop()`, `update()`.
-
----
 
 ### 🚀 **Getting Started**
 1. Clone the repository:
