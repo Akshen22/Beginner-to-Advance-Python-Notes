@@ -1,7 +1,3 @@
-Here's the updated version with the "Navigate to the project directory" step added:
-
----
-
 # 💻 Beginner-to-Advance Python Notes 🚀  
 **"Master Python Programming Essentials"**
 
@@ -81,5 +77,3 @@ Licensed under the MIT License.
 Happy Coding! 🎉
 
 --- 
-
-This version now includes the "Navigate to the project directory" step!
