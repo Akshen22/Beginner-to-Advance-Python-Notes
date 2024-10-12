@@ -48,6 +48,22 @@ Welcome to the Python learning journey! This repository provides structured less
 - **Dictionaries 🔑**  
    Manage key-value pairs with functions like `get()`, `setdefault()`, `items()`, `keys()`, `pop()`, `update()`.
 
+### Day 8: Iterables, Conditionals, and Error Handling
+
+- **Iterables vs Non-Iterables**: Understand the difference between objects that can be looped over and those that cannot.
+
+- **`zip()`**: Combine multiple iterables into tuples.
+
+- **`range()`**: Generate a sequence of numbers for loops.
+
+- **`enumerate()`**: Access both index and value during iteration.
+
+- **Conditional Statements**: Use `if`, `elif`, and `else` for decision-making.
+
+- **`isinstance()`**: Check an object's type.
+
+- **Error Handling**: Use `try` and `except` to manage exceptions like `ValueError`.
+
 ---
 
 ### 🚀 **Getting Started**
