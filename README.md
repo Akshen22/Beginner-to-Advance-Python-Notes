@@ -79,6 +79,8 @@ Welcome to the Python learning journey! This repository provides structured less
 
 ---
 
+Contact: akshendhami@gmail.com, https://www.linkedin.com/in/akshen-dhami22
+
 ### 🛡️ **License**
 Licensed under the MIT License.
 
